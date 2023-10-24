@@ -1,0 +1,13 @@
+
+
+.ring-item {
+  font-size: 16px;
+}
+
+.even-ring {
+  background-color: #f9f9f9;
+}
+
+.odd-ring {
+  background-color: #f0f0f0;
+}
